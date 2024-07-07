@@ -1,5 +1,5 @@
 # Desafio Github Markdown
 
 
-Desafio GitHub - Curso da DIO. 
+Desafio GitHub - Curso da plataforma DIO. 
 
